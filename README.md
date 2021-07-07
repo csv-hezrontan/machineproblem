@@ -1,4 +1,4 @@
-# Machine Problem for C#
+# Machine Problem for JavaScript
 
 
 ## System Under Test
